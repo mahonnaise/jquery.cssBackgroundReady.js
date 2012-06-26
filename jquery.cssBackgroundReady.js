@@ -1,3 +1,5 @@
+/*! github.com/mahonnaise/jquery.cssBackgroundReady.js */
+
 /*jslint browser:true, regexp:false, plusplus:false*/
 /*global $*/
 
