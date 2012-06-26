@@ -34,7 +34,6 @@
 		loaded = function () {
 			toLoad--;
 			if (!toLoad && handler) {
-				//collection.each(handler);
 				handler.call(collection);
 			}
 		};
