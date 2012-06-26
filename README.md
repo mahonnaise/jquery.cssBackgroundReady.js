@@ -4,6 +4,8 @@
 
 The background images of descendants are not included. Use [`$.add`](http://api.jquery.com/add/) if you want to include them.
 
+[**DEMO**](http://kaioa.com/k/test/cssBackgroundReady/demo/index.html)
+
 #Usage
 
 <code>$(<var>selector</var>).cssBackgroundReady(<var>handler</var>);</code>
