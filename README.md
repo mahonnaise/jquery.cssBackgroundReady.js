@@ -1,10 +1,8 @@
-#jquery.cssBackgroundReady.js
+#jquery.cssBackgroundReady.js ([Demo](http://kaioa.com/k/test/cssBackgroundReady/demo/index.html))
 
 *jquery.cssBackgroundReady.js* is a jQuery plugin which calls you back when the relevant background images are ready/preloaded.
 
 The background images of descendants are not included. Use [`$.add`](http://api.jquery.com/add/) if you want to include them.
-
-[**DEMO**](http://kaioa.com/k/test/cssBackgroundReady/demo/index.html)
 
 #Usage
 
