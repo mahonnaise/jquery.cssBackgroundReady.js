@@ -21,3 +21,8 @@ $('.foo').cssBackgroundReady(function () {
 	});
 });
 ```
+
+#Compatibility
+
+* any recent browser
+* IE versions as old as 6
